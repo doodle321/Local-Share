@@ -18,8 +18,8 @@ To run this application, you need to have Node.js and npm installed on your syst
 
   - Linux (Debian/Ubuntu): Run the following commands in your terminal:
 ```
-        sudo apt update
-        sudo apt install nodejs npm
+  sudo apt update
+  sudo apt install nodejs npm
 ```
 
 ### 2. Set Up the Project
