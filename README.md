@@ -51,4 +51,4 @@ Once the server is running, it will output the port number (e.g., Server running
 
 On the host machine: Open your browser and go to http://localhost:3000
 
-On other local devices: Find the host machine's local IP address (e.g., 192.168.1.10) and connect via http://<host-ip>:3000
+On other local devices: Find the host machine's local IP address (e.g., 192.168.1.10) and connect via `http://<host-ip>:3000`
