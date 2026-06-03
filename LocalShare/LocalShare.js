@@ -281,7 +281,7 @@ app.get('/', (req, res) => {
                 <span class="live-pulse">Active Stream</span>
             </div>
             <div class="textarea-container">
-                <textarea id="shared-text" placeholder="Type naturally. Canvas updates in absolute real-time across your grid..."></textarea>
+                <textarea id="shared-text" placeholder="Type naturally. Canvas updates in real-time across your local network..."></textarea>
             </div>
         </div>
 
