@@ -1,8 +1,9 @@
 # Local-Share
-Local Share
-A lightweight, real-time file and text sharing web application designed for local networks (LAN). "Local Share" connects all devices on the same network, allowing instantaneous, dynamic data sharing without requiring page refreshes. When text or files are updated on one device, the changes reflect across all other connected devices instantly.
 
 <img width="1365" height="767" alt="Screenshot 2026-06-03 7 15 11 PM" src="https://github.com/user-attachments/assets/3acbab77-efbb-446a-aa76-b9ea337c7bb6" />
+
+A lightweight, real-time file and text sharing web application designed for local networks (LAN). "Local Share" connects all devices on the same network, allowing instantaneous, dynamic data sharing without requiring page refreshes. When text or files are updated on one device, the changes reflect across all other connected devices instantly.
+
 
 # Features
 - Real-Time Syncing: Uses WebSockets to broadcast changes instantly across the local network.
