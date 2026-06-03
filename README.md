@@ -26,6 +26,7 @@ To run this application, you need to have Node.js and npm installed on your syst
 ### 2. Set Up the Project
 Clone or download this repository, navigate to the project folder, and initialize it:
 ```
+  git clone https://github.com/doodle321/Local-Share.git
   cd LocalShare 
   npm init -y
 ```
